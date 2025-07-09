@@ -20,13 +20,20 @@ A full-stack ToDo application built using the **MERN stack (MongoDB, Express, Re
 
 ## 🖼️ Demo
 
-![ToDo App Home page]file:///C:/Users/hp/OneDrive/Pictures/Screenshots/Screenshot%202025-07-09%20092317.png
+![ToDo App Home page](https://github.com/user-attachments/assets/0878c003-0e5b-4c00-b828-32b5cc849ef5)!
+
+
+![ToDo App Login page](https://github.com/user-attachments/assets/797d16ba-9104-4a9d-befe-33b7f324e5de)
+
+![Todo App Signup page](https://github.com/user-attachments/assets/090e0856-3fa9-4038-839f-1db29ee685ec)
+
 
 ---
 
 ## 🔧 Tech Stack
 
-**Frontend:**
+**Frontend:**!
+
 - React
 - Axios
 - CSS (or Tailwind/Bootstrap optional)
