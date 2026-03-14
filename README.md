@@ -1,4 +1,4 @@
-# 📝 MERN ToDo App with Authentication
+# 📝 Task Managment Application 
 
 A full-stack ToDo application built using the **MERN stack (MongoDB, Express, React, Node.js)** with **JWT-based authentication**.
 
